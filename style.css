@@ -1,0 +1,30 @@
+body {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+    background-color: rgb(245, 70, 70);
+}
+
+.symbol {
+    width: 20%;
+    height: auto;
+}
+
+
+.introduction {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(85, 176, 241);
+    padding: 30px;
+}
+.pestList {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: rgb(85, 176, 241);
+}
+.bomb {
+    width: 20%;
+    height: auto;
+}
