@@ -38,3 +38,15 @@ body {
     width: 20%;
     height: auto;
 }
+
+#pestBtn {
+    margin: 20px;
+}
+.footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(85, 176, 241);
+    padding: 30px;
+
+}
